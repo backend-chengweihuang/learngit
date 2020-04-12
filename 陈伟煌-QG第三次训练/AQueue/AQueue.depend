@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586656214 source:c:\users\letsgo\desktop\qg大组第三次训练\aqueue\aqueue\main.c
+	"AQueue.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586656214 source:c:\users\letsgo\desktop\qg大组第三次训练\aqueue\aqueue\aqueue.c
+	"AQueue.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586654511 c:\users\letsgo\desktop\qg大组第三次训练\aqueue\aqueue\aqueue.h
+

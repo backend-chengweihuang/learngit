@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1586680488 source:c:\users\letsgo\desktop\qg第三次训练\代码\lqueue\lqueue\main.c
+	"LQueue.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586691451 source:c:\users\letsgo\desktop\qg第三次训练\代码\lqueue\lqueue\lqueue.c
+	"LQueue.h"
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1586617784 c:\users\letsgo\desktop\qg第三次训练\代码\lqueue\lqueue\lqueue.h
+
